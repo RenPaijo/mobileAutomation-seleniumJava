@@ -72,4 +72,4 @@ README.md
   allure serve target/allure-results
   ```
   Results are written to `target/allure-results` (see `allure.properties`). If the report shows 0 test cases, make sure you serve `target/allure-results`, not the legacy `allure-results/` folder at the project root.
-- Test run recording link: (fill in here per QA requirement #5)
+- Test run recording link: ([Screen record test](https://drive.google.com/file/d/1LntuZqh4lnTanoE53C66SWta5X8zPk04/view?usp=sharing))
